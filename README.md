@@ -5,7 +5,14 @@ Este projeto é uma aplicação web que permite ao usuário **descrever uma anim
 - O **código CSS** correspondente.  
 - A **visualização da animação em tempo real**.  
 
-Tudo isso utilizando integração com um **webhook de Inteligência Artificial**. 🚀  
+Tudo isso utilizando integração com um **webhook de Inteligência Artificial**. 🚀 
+
+---
+
+## ⚠️ Importante
+utilizei a versão **gratuita do n8n** para criar o webhook de integração com IA.  
+Atualmente não tenho mais acesso a esse recurso, portanto não consigo disponibilizar o link pronto.  
+Se quiser testar, será necessário criar o seu próprio webhook no n8n (ou outra plataforma semelhante). 
 
 ---
 
